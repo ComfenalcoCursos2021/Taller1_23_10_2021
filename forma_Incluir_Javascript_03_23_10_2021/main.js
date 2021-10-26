@@ -1,1 +1,0 @@
-// 3.Haz un programa de nombre index.html y por medio de las etiquetas <script></script> dentro de de la etiqueta <body></body>, que has de grabar en una carpeta llamada forma_Incluir_Javascript_03_FechaActual, mostrar un mensaje por medio de la consola o de la ventana emergente un mensaje “Hola Mundo” .
